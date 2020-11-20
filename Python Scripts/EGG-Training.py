@@ -7,7 +7,6 @@ Outputs data in excel sheet with name 'mode'
 Version 1.1 // 19 Nov 2020 // Zephir Lorne
 + Added comments
 + Cleaned the code
-+ Renamed file
 """
 
 import time

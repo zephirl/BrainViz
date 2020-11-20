@@ -1,18 +1,19 @@
 """
 Live processing of EEG data from EEG headset (EPOC+) / Emotiv PRO app
 Detects head movements of user: left,right,forward,backward
-Detetcs L/R eye blinking
+Detects L/R eye blinking
 Outputs/Updates these detections to text file every 0.5 seconds
 """
 """
 Version 1.1 // 19 Nov 2020 // Zephir Lorne
-+ Added comments
 + Finished implementing Eye(), which detects if user blinks L/R eyes
 + Renamed functions
     + Separated motion() in two with Motion() and Angles()
     + CallMotion() is now ProcessData() which calls Motion() and Eyes() instead of only Motion()
 + Added beta calibration (not finished)
++ Added comments
 + Cleaned the code
++ Renamed file
 """
 import time
 import numpy as np
