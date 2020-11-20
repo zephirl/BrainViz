@@ -26,7 +26,7 @@ We wanted to create an immersive and innovative experience accessible to everyon
 + Game engine: Unity (files will soon be made available on this repo)
 + Data analysis/processing: Python
   + Libraries used:
-    + Emotiv LSL (to communicate between the brainware and the python script):
+    + Emotiv LSL (to communicate between the brainware and the python script): https://github.com/Emotiv/labstreaminglayer/tree/master/examples/python
     + Squaternion (to convert quaternion data to angles, for movement): https://pypi.org/project/squaternion/
 + EEG headset: Emotiv Epoc+ (https://www.emotiv.com/epoc/)
 + EEG receiver: Emotiv PRO app (https://www.emotiv.com/emotivpro/)
