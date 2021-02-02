@@ -5,6 +5,8 @@ Live processing of electroencephalogram data from EEG headset (EPOC+) & Emotiv P
 ** _MLH Winner: Best Hardware Hack - CodeJam Hackathon_ **
 
 ![Screenshot](Images/Screenshot_EEGDataLeft_GameRight_ScriptBottom.png?raw=true "Screenshot")
+![EEG Headset](Images/EEG_headset.png?raw=true "EEG Headset")
+
 
 [ Video demo coming soon ]
 
