@@ -2,6 +2,8 @@
 BrainViz analyzes live brain activity to control a video game through your emotions, eye blinking and head movements:
 Live processing of electroencephalogram data from EEG headset (EPOC+) & Emotiv PRO app.
 
+** _MLH Winner: Best Hardware Hack - CodeJam Hackathon_ **
+
 ![Screenshot](Images/Screenshot_EEGDataLeft_GameRight_ScriptBottom.png?raw=true "Screenshot")
 
 [ Video demo coming soon ]
@@ -25,7 +27,7 @@ We wanted to create an immersive and innovative experience accessible to everyon
 + Game engine: Unity (files will soon be made available on this repo)
 + Data analysis/processing: Python
   + Libraries used:
-    + Emotiv LSL (to communicate between the brainware and the python script):
+    + Emotiv LSL (to communicate between the brainware and the python script): https://github.com/Emotiv/labstreaminglayer/tree/master/examples/python
     + Squaternion (to convert quaternion data to angles, for movement): https://pypi.org/project/squaternion/
 + EEG headset: Emotiv Epoc+ (https://www.emotiv.com/epoc/)
 + EEG receiver: Emotiv PRO app (https://www.emotiv.com/emotivpro/)
