@@ -2,6 +2,8 @@
 BrainViz analyzes live brain activity to control a video game through your emotions, eye blinking and head movements:
 Live processing of electroencephalogram data from EEG headset (EPOC+) & Emotiv PRO app.
 
+![Screenshot](Images/Screenshot_EEGDataLeft_GameRight_ScriptBottom.png?raw=true "Screenshot")
+
 [ Video demo coming soon ]
 
 
